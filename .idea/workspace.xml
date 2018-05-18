@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4cf6ff1-67f8-463a-8702-fb8e22df92a2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-    </list>
+    <list default="true" id="a4cf6ff1-67f8-463a-8702-fb8e22df92a2" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,24 +12,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DataOnlyMain.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/adam/ch2/p5/DataOnlyMain.java">
+      <file leaf-file-name="StorgeMain.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/adam/ch2/p6/StorgeMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="240">
-              <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DataOnly.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/adam/ch2/p5/DataOnly.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="280">
-              <caret line="14" column="48" lean-forward="false" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+            <state relative-caret-position="300">
+              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
               <folding>
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#239#240#0" expanded="true" />
+                <element signature="e#138#139#0" expanded="true" />
+                <element signature="e#175#176#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -72,6 +60,7 @@
         <option value="$PROJECT_DIR$/src/com/adam/ch2/p4/DataOnlyMain.java" />
         <option value="$PROJECT_DIR$/src/com/adam/ch2/p5/DataOnly.java" />
         <option value="$PROJECT_DIR$/src/com/adam/ch2/p5/DataOnlyMain.java" />
+        <option value="$PROJECT_DIR$/src/com/adam/ch2/p6/StorgeMain.java" />
       </list>
     </option>
   </component>
@@ -191,13 +180,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="ch2" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="ch2" type="462c0819:PsiDirectoryNode" />
-              <item name="p5" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -230,7 +212,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.DataOnlyMain (1)">
+  <component name="RunManager" selected="Application.StorgeMain">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="WIDTH" value="400" />
       <option name="HEIGHT" value="300" />
@@ -294,14 +276,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="DefaultInitializationMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.adam.ch2.p1.*" />
+          <option name="PATTERN" value="com.adam.ch2.p2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.adam.ch2.p1.DefaultInitializationMain" />
+      <option name="MAIN_CLASS_NAME" value="com.adam.ch2.p2.HelloWorld" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -313,14 +295,14 @@
       <module name="ThinkingInJava" />
       <envs />
     </configuration>
-    <configuration name="HelloWorld" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="StorgeMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="com.adam.ch2.p2.*" />
+          <option name="PATTERN" value="com.adam.ch2.p6.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="com.adam.ch2.p2.HelloWorld" />
+      <option name="MAIN_CLASS_NAME" value="com.adam.ch2.p6.StorgeMain" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -407,19 +389,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DefaultInitializationMain" />
-      <item index="1" class="java.lang.String" itemvalue="Application.HelloWorld" />
-      <item index="2" class="java.lang.String" itemvalue="Application.ATypeNameMain" />
-      <item index="3" class="java.lang.String" itemvalue="Application.DataOnlyMain" />
-      <item index="4" class="java.lang.String" itemvalue="Application.DataOnlyMain (1)" />
+      <item index="0" class="java.lang.String" itemvalue="Application.HelloWorld" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ATypeNameMain" />
+      <item index="2" class="java.lang.String" itemvalue="Application.DataOnlyMain" />
+      <item index="3" class="java.lang.String" itemvalue="Application.DataOnlyMain (1)" />
+      <item index="4" class="java.lang.String" itemvalue="Application.StorgeMain" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.DataOnlyMain (1)" />
-        <item index="1" class="java.lang.String" itemvalue="Application.DataOnlyMain" />
-        <item index="2" class="java.lang.String" itemvalue="Application.ATypeNameMain" />
-        <item index="3" class="java.lang.String" itemvalue="Application.HelloWorld" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DefaultInitializationMain" />
+        <item index="0" class="java.lang.String" itemvalue="Application.StorgeMain" />
+        <item index="1" class="java.lang.String" itemvalue="Application.DataOnlyMain (1)" />
+        <item index="2" class="java.lang.String" itemvalue="Application.DataOnlyMain" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ATypeNameMain" />
+        <item index="4" class="java.lang.String" itemvalue="Application.HelloWorld" />
       </list>
     </recent_temporary>
   </component>
@@ -442,12 +424,12 @@
       <option name="presentableId" value="Default" />
       <updated>1526635927870</updated>
       <workItem from="1526635930139" duration="540000" />
-      <workItem from="1526607707164" duration="1341000" />
+      <workItem from="1526607707164" duration="1513000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1881000" />
+    <option name="totallyTimeSpent" value="2053000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-4" width="1366" height="772" extended-state="6" />
@@ -462,8 +444,8 @@
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33126935" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31888545" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33126935" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31888545" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25416037" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -587,6 +569,17 @@
         <state relative-caret-position="240">
           <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/adam/ch2/p6/StorgeMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#138#139#0" expanded="true" />
+            <element signature="e#175#176#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
